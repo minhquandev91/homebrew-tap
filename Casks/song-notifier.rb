@@ -1,6 +1,6 @@
 cask "song-notifier" do
-  version "0.3.0"
-  sha256 "bab3fb06e37e14e41d747c2955d4fcf78036cbe7c9b8b6a86da8be3b2033118f"
+  version "0.3.1"
+  sha256 "85d56a1dbd23b1dda1f3408c9e77a8e55a403c5d930eba72e7472b0118d58434"
 
   url "https://github.com/minhquandev91/song-notifier/releases/download/v#{version}/SongNotifier-#{version}.zip"
   name "Song Notifier"
